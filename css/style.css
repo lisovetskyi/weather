@@ -1,0 +1,95 @@
+.home {
+    padding: 10px;
+}
+.header {
+    display: flex;
+    justify-content: space-between;
+}
+.headertitle {
+    font-size: 12px;
+    font-weight: bold;
+    color: #a99d9f;
+    margin-left: 8px;
+    line-height: 12px;
+}
+.headerbtn {
+    width: 73px;
+    height: 24px;
+    font-size: 14px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #017ef9;
+    font-weight: 500;
+    border: 1px solid #017ef9;
+    border-radius: 21px;
+    outline: none;
+    background-color: transparent;
+    font-family: Roboto;
+    letter-spacing: .125px;
+    padding-top: 2px;
+}
+.video-box {
+    padding: 30px 16px 9px;
+    border: 1px solid #c8c8c8;
+    border-radius: 6px 6px 0 0;
+    overflow: hidden;
+}
+.mini-title {
+    font-size: 26px;
+    line-height: 29px;
+    font-family: Roboto, Helvetica,-apple-system,BlinkMacSystemFont,"Segoe UI","Helvetica Neue",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+}
+.head-title {
+    padding: 0;
+    margin: 0 0 16px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 34px;
+    letter-spacing: .3125px;
+    color: #242424;
+    font-family: Roboto Slab;
+    margin-block-start: 0.67em;
+    margin-block-end: 0.67em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+.sunny-icon {
+    width: 32px;
+    height: 32px;
+    margin-top: -10px;
+}
+.mb-30 {
+    margin-bottom: 30px
+}
+li {
+    margin-left: 20px;
+    font-size: 18px;
+    line-height: 29px;
+    font-weight: 500;
+}
+ul {
+    padding-inline-start: 10px;
+}
+.weather-desciption {
+    padding-top: 20px;
+    border-bottom: 1px solid #ccc
+}
+h4 {
+    font-size: 18px;
+    line-height: 29px;
+    font-weight: 700;
+}
+.logo {
+    width: 25px;
+    height: 25px;
+}
+.video-tag {
+    width: 100%
+}
+.line-icon{
+    font-size: 50px;
+    font-weight: 100;
+    line-height: 0px;
+}
